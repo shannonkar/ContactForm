@@ -29,7 +29,6 @@ function CountactForm() {
   }
 
   const formValidation = () => {
-    console.log(ValidateEmail(email));
     setErrorMessages([]);
 
     const isNameValid = name !== "";
