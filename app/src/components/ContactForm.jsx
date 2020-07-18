@@ -89,7 +89,7 @@ function CountactForm() {
             />
             <TextField
               label="Message"
-              placeholder="Joe Doe"
+              placeholder="Help me with ..."
               type="text"
               variant="outlined"
               multiline
