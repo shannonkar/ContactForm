@@ -1,11 +1,11 @@
 import React from 'react';
-import ContactUs from './components/ContactUs'
+import ContactForm from './components/ContactForm'
 import './styles.css';
 
 function App() {
   return (
     <div className="App">
-      <ContactUs />
+      <ContactForm />
     </div>
   );
 }
